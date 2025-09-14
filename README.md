@@ -1,16 +1,37 @@
-# row_and_column
+[revisi]
+# 📘 Praktikum Mobile – Pertemuan II  
+## Widget Row dan Column  
 
-A new Flutter project.
+### 🎯 Tujuan
+- Memahami penggunaan **Row** dan **Column**.  
+- Membuat **widget kustom** dengan `StatelessWidget` dan `Container`.  
+- Mengatur tata letak horizontal & vertikal.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### 🛠️ Langkah Kerja
+1. Membuat project baru `row_and_column`.  
+2. Membuat widget kustom **KotakBiruJempol** (kotak biru + ikon jempol).  
+3. Menampilkan widget kustom di layar.  
+4. Menambahkan beberapa widget dengan **Row**.  
+5. Mengganti Row dengan **Column** + `SizedBox` untuk jarak.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📷 Hasil
+- Tampilan 1 kotak kustom.  
+- Tampilan beberapa kotak dalam **Row**.  
+- Tampilan kotak dalam **Column**.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+### ✅ Kesimpulan
+- **Row** → menyusun widget horizontal.  
+- **Column** → menyusun widget vertikal.  
+- Widget kustom memperindah tampilan dengan warna, border, dan ikon.  
+- Row & Column berfungsi sebagai **parent layout** untuk widget anak (children).  
+
+---
+
+
+✍️ *Laporan Praktikum Mobile – Pertemuan II*  
